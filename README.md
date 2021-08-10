@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anishpabby
 - 👀 I’m interested in front end development !!
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working full time in Angular
 - 💞️ I’m looking to collaborate on projects related to Angular
 - 📫 How to reach me ? Mail me at anishpabby@gmail.com
 
